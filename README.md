@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PedroSurita
-- 👀 I’m interested in node runing
+- 👀 I’m interested in node runing & sell NFT shit
 - 🌱 I’m currently learning golang
 - 💞️ I’m looking to collaborate on long term
 - 📫 How to reach me ... via mail: pedro.surita@protonmail.com
